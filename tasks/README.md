@@ -15,7 +15,7 @@
 * [roomba.py] is a submission to the task in Slide 4 which demands motion of a turtlebot in an obstacle filled environment similar to that of a roomba or a walker. It uses the lidar data published on the `/scan` topic and publishes corresponding velocity commands on the `/cmd_vel` topic. Follow the following steps to run the simulation : 
   1) Launch Turtlebot3 in a house environment : </br>
   ```roslaunch turtlebot3_gazebo turtlebot3_house.launch```
-    2) Run the python file which contains the ROS node controlling the Turtlebot : 
+    2) Run the python file which contains the ROS node controlling the Turtlebot : </br>
   ```python <path_to_roomba.py_file>```
 
 Following are the screenshots and GIF files for the simulation : 

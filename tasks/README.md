@@ -21,7 +21,7 @@
 Following are the screenshots and GIF files for the simulation : 
 
 
-* [controller.py] is a submission for task in Slide 3 which demans motion of a turtlebot in such a way that it moves forward by 5m and turns around by 45 degrees with its positio and orientation logged on a topic or on terminal. The algorithm makes use of the odometry published on the `/odom` topic and velocity commands are published on `/cmd_vel` accordingly. Follow the following steps to run the simulation : 
+* [controller.py] is a submission for task in Slide 3 which demans motion of a turtlebot in such a way that it moves forward by 5m and turns around by 45 degrees with its position and orientation logged on a topic or on terminal. The algorithm makes use of the odometry published on the `/odom` topic and velocity commands are published on `/cmd_vel` accordingly. Follow the following steps to run the simulation : 
   1) Launch Turtlebot3 in an empty world environment : </br>
   ```roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch```
   2) Run the python file which contains the ROS node controlling the Turtebot :  </br>

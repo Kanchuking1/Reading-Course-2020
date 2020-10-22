@@ -5,9 +5,9 @@ from geometry_msgs.msg import Twist #
 
 def callback(msg):
     print '-------------------------------------------'
-    print 'Range data at 0 deg:   {}'.format(dt.ranges[0])
-    print 'Range data at 15 deg:  {}'.format(dt.ranges[15])
-    print 'Range data at 345 deg: {}'.format(dt.ranges[345])
+    print 'Range data at 0 deg:   {}'.format(msg.ranges[0])
+    print 'Range data at 15 deg:  {}'.format(msg.ranges[15])
+    print 'Range data at 345 deg: {}'.format(msg.ranges[345])
     print '-------------------------------------------'
     thr1 = 0.8 # Laser scan range threshold
     thr2 = 0.8

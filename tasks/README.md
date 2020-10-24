@@ -1,7 +1,7 @@
 # This folder contains all the solutions to tasks allotted.
 
 ## Contributors : 
-* Slide 3 : Aditya Bidwai 
+* Slide 3 : Aditya Bidwai (2018AAPS0388G)
 * Slide 4 : Advait Kulkarni 
 * Slide 5 : Anirudh Panwar
 * Slide 6 : Aadhar Sharma

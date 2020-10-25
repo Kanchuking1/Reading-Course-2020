@@ -14,13 +14,13 @@ def callback(msg):
     if msg.ranges[0]>thr1 and msg.ranges[15]>thr2 and msg.ranges[345]>thr2: # Checks if there are obstacles in front and
                                                                          # 15 degrees left and right (Try changing the
 									 # the angle values as well as the thresholds)
-        move.linear.x = 0.15 # go forward (linear velocity)
+        move.linear.x = 0.22 # go forward (linear velocity)
         move.angular.z = 0.0 # do not rotate (angular velocity)
     else:
         move.linear.x = 0.0 # stop
-        move.angular.z = 0.5 # rotate counter-clockwise
+        move.angular.z = 1.5 # rotate counter-clockwise
         if msg.ranges[0]>thr1 and msg.ranges[15]>thr2 and msg.ranges[345]>thr2:
-            move.linear.x = 0.15
+            move.linear.x = 0.22
             move.angular.z = 0.0
     pub.publish(move) # publish the move object
 

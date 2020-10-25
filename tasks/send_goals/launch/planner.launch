@@ -1,0 +1,18 @@
+<launch>  
+  <param name="goal_x" value="2" />
+  <param name="goal_y" value="-2" />
+  <param name="goal_theta" value="180" />
+
+  <param name="/use_sim_time" value="true"/>
+  
+  <!--  Launch turtlebot3 world  -->
+  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_world.launch"/>
+ 
+  <!-- Launch navigation stack with amcl -->
+  <include file="$(find turtlebot3_gazebo)/launch/amcl_demo.launch"/>
+ 
+  <!-- Launch send goals node -->
+  <node name="planner" pkg="send_goals" type="planner.cpp" output="screen"/>
+</launch>
+ 
+

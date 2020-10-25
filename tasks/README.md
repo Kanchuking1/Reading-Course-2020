@@ -18,14 +18,22 @@
     2) Run the python file which contains the ROS node controlling the Turtlebot : </br>
   ```python <path_to_roomba.py_file>```
 
-Following are the screenshots and GIF files for the simulation : 
 
-
-* [controller.py] is a submission for task in Slide 3 which demans motion of a turtlebot in such a way that it moves forward by 5m and turns around by 45 degrees with its position and orientation logged on a topic or on terminal. The algorithm makes use of the odometry published on the `/odom` topic and velocity commands are published on `/cmd_vel` accordingly. Follow the following steps to run the simulation : 
+* [controller.py](https://github.com/adbidwai/Reading-Course-2020/blob/master/tasks/controller.py) is a submission for task in Slide 3 which demands motion of a turtlebot in such a way that it moves forward by 5m and turns around by 45 degrees with its position and orientation logged on a topic or on terminal. The algorithm makes use of the odometry published on the `/odom` topic and velocity commands are published on `/cmd_vel` accordingly. Follow the following steps to run the simulation : 
   1) Launch Turtlebot3 in an empty world environment : </br>
   ```roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch```
   2) Run the python file which contains the ROS node controlling the Turtebot :  </br>
   ```python <path_to_controller.py_file>```
+  
+* [world_broadcast.py](https://github.com/adbidwai/Reading-Course-2020/blob/master/tasks/world_broadcast.py) and [world_map.py](https://github.com/adbidwai/Reading-Course-2020/blob/master/tasks/world_map.py) is a submission for task in Slide 6 which asks for a conversion of frame coordiantes. The code makes use of tf library for the transformations Follow the following steps to run the simulation : 
+  1) Launch Turtlebot3 in an empty world environment : </br>
+  ```roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch```
+  2) Run the python file which contains the ROS node controlling the Turtebot :  </br>
+  ```python <path_to_world_broadcaster.py_file>```
+  3) Run the python file which contains the ROS node controlling the Turtebot :  </br>
+  ```python <path_to_world_map.py_file>``
+  
+
 
 
 

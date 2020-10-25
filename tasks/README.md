@@ -33,7 +33,11 @@
   3) Run the python file which contains the ROS node controlling the Turtebot :  </br>
   ```python <path_to_world_map.py_file>```
   
+  
+* [mapping](https://github.com/adbidwai/Reading-Course-2020/tree/master/tasks/mapping) is the solution for Slide 5 which asks for mapping. The results can be seen by launching the launch file inside the `launch` folder of the packages.
 
+* [send_goals](https://github.com/adbidwai/Reading-Course-2020/tree/master/tasks/send_goals) is the solution for Slide 8 which asks for sending goals to the move base client and accordingly the action should be implemented. The results can be seen by launching the launch file inside the `launch` folder of the packages
 
+* [astar.py](https://github.com/adbidwai/Reading-Course-2020/tree/master/tasks/astar.py) is the python code implemented for the visualization and computation of A-star path planning algorithm.
 
 

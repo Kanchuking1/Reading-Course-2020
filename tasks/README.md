@@ -31,7 +31,7 @@
   2) Run the python file which contains the ROS node controlling the Turtebot :  </br>
   ```python <path_to_world_broadcaster.py_file>```
   3) Run the python file which contains the ROS node controlling the Turtebot :  </br>
-  ```python <path_to_world_map.py_file>``
+  ```python <path_to_world_map.py_file>```
   
 
 

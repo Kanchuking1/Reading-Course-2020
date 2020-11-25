@@ -1,0 +1,1 @@
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg/share/navros_pkg/cmake/navros_pkgConfig-version.cmake

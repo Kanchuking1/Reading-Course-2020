@@ -1,0 +1,6 @@
+devel_space: /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel
+install: false
+install_space: /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/install
+profile: default
+source_space: /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/src
+workspace: /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws

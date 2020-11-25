@@ -1,0 +1,8 @@
+prefix=/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg
+
+Name: navros_pkg
+Description: Description of navros_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

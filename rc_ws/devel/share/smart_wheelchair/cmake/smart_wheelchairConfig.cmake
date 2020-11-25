@@ -1,0 +1,1 @@
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/smart_wheelchair/share/smart_wheelchair/cmake/smart_wheelchairConfig.cmake

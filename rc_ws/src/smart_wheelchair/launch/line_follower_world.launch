@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	
+	<!-- Launch custom world Gazebo  -->
+	<include file="$(find gazebo_ros)/launch/empty_world.launch">
+		<arg name="world_name" default="$(find smart_wheelchair)/worlds/lf.world"/>
+		<arg name="paused" value="false"/>
+		<arg name="gui" value="true"/>
+	</include>
+
+	<!-- Spawn the car model --> 
+	<include file="$(find smart_wheelchair)/launch/spawn_car.launch" />
+	
+	 <!--Publish fixed tfs 	-->
+
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="false" output="screen">
+		<remap from="/joint_states" to="/robot/joint_states" /> 
+	</node> 
+
+</launch>

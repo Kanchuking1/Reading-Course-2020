@@ -1,0 +1,5 @@
+navros_pkg
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg/cmake.lock /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/./cmake.lock
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg/share/navros_pkg/cmake/navros_pkgConfig-version.cmake /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/share/navros_pkg/cmake/navros_pkgConfig-version.cmake
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg/share/navros_pkg/cmake/navros_pkgConfig.cmake /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/share/navros_pkg/cmake/navros_pkgConfig.cmake
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/navros_pkg/lib/pkgconfig/navros_pkg.pc /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/lib/pkgconfig/navros_pkg.pc

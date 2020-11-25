@@ -1,0 +1,5 @@
+smart_wheelchair
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/smart_wheelchair/cmake.lock /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/./cmake.lock
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/smart_wheelchair/share/smart_wheelchair/cmake/smart_wheelchairConfig-version.cmake /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/share/smart_wheelchair/cmake/smart_wheelchairConfig-version.cmake
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/smart_wheelchair/share/smart_wheelchair/cmake/smart_wheelchairConfig.cmake /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/share/smart_wheelchair/cmake/smart_wheelchairConfig.cmake
+/home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/.private/smart_wheelchair/lib/pkgconfig/smart_wheelchair.pc /home/adbidwai/Desktop/github_repos/Reading-Course-2020/rc_ws/devel/lib/pkgconfig/smart_wheelchair.pc

@@ -21,3 +21,13 @@ Project repository for the reading course 2020
   rosrun smart_wheelchair start.py
   ```
 * Youtube video link for project demo : https://www.youtube.com/watch?v=wA5UWTaoHeA&feature=youtu.be 
+
+## Contributors : 
+* [Eash Vrudhula](https://github.com/evrudhula)
+* [Wahib Kapdi](https://github.com/Kanchuking1)
+* [Aditya Bidwai](https://github.com/adbidwai)
+* [Vishal Singh](https://github.com/vishalbhsc)
+* [Aadhar Sharma](https://github.com/aadhar218)
+* [Anirudh Panwar](https://github.com/AnirudhPanwar)
+* [Advait Kulkarni](https://github.com/advaitkulkarni2000)
+

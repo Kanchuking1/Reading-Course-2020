@@ -1,5 +1,6 @@
 # Reading-Course-2020
 Project repository for the reading course 2020
+For just a gist of the project [Click Here](https://docs.google.com/presentation/d/1AwP8XgRxk22_be11CjxQVZA6zxebP-ty__m7jx66ckI/edit#slide=id.p)
 
 ## Instructions to run the final project
 
